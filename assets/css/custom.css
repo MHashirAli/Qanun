@@ -1,0 +1,33 @@
+*{
+    /* outline: 1px red solid; */
+}
+
+.lwyr_srch_form{}
+.lwyr_srch_form > .srch_fltr{
+    width: 150px !important;
+}
+.lwyr_srch_form > .srch_bar{
+    border-radius: 0px !important;
+}
+.lwyr_srch_form > .srch_btn{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 20px !important;
+    /* padding-left: 10px !important; */
+    border-radius: 0px 40px 40px 0px !important;
+}
+.lwyr_srch_form > .srch_btn > i{
+    color: white !important;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+
+.wpo-team-img{
+    height: 300px;
+}
+.wpo-team-img > img{
+    height: 100%;
+}
+
